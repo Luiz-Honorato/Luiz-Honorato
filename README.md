@@ -1,9 +1,7 @@
 <h2>Olá! Eu sou o Luiz.</2>
 <hr>
-hsugdgdghsjbjsjskskmnsmnmsnksnmsksmsnsjshmhsjsjhskhskhskjskjskjskjskjskjskjk
-klskododdjkldjkdjkdjkdjkfjkjfkfjkfjkjkjskjwoslkjslsljdkjdkjfkjfkjlkldldldkldk
-jksjksjkdsjkdjkjdkjdkjdkjdkjdkjdkjdkjdkjfkfjkjfkfjkjfkjfkfjkjgkjgkjgkjgkjgkjgk
-jakjskjskjdkjdk
+Sou desenvolvedor frontend atualmente voltado para a web. Me dedico 5 horas por dia focado ao aprendizado
+das ferramentas que utilizo. 
 
 <h2>Skills:</h2>
 <div style="display:flex; padding:5px; margin-left:100px;">
