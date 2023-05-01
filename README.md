@@ -1,8 +1,6 @@
-<h2>Olá! Meu nome é Luiz.</2>
+<h2>Olá! Eu sou o Luiz.</2>
 <hr>
-
-  -   Estudando Desenvolvimento Web.
-  -   Frontend.
+<p>Sou desenvolvedor frontend web.</p>
 
 <h2>Skills:</h2>
 <div style="display:flex; padding:5px; margin-left:100px;">
