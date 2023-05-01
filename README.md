@@ -1,4 +1,9 @@
-<h2>Olá! Eu sou o Luiz.</2>
+![image](https://user-images.githubusercontent.com/105612296/235490710-d25679ea-29f1-4262-bcb9-617b44c0522e.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!;)](https://git.io/typing-svg)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Honorato&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Honorato)](https://github.com/anuraghazra/github-readme-stats)
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Luiz-Honorato&bg_color=083649&color=f2edf2&line=000010&point=00d4f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 <p>Sou desenvolvedor frontend atualmente voltado para a web. Me dedico 5 horas por dia focado ao aprendizado
 das ferramentas que utilizo.</p>
@@ -14,3 +19,10 @@ das ferramentas que utilizo.</p>
   <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/6f61ce982d7a61713d63c947148300012945bd4a4cafb8b9313e2426c5a1f273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765">
 </div>
+
+
+
+
+
+
+
