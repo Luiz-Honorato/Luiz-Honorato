@@ -1,6 +1,9 @@
 <h2>Olá! Eu sou o Luiz.</2>
 <hr>
-<p>Sou desenvolvedor frontend web.</p>
+hsugdgdghsjbjsjskskmnsmnmsnksnmsksmsnsjshmhsjsjhskhskhskjskjskjskjskjskjskjk
+klskododdjkldjkdjkdjkdjkfjkjfkfjkfjkjkjskjwoslkjslsljdkjdkjfkjfkjlkldldldkldk
+jksjksjkdsjkdjkjdkjdkjdkjdkjdkjdkjdkjdkjfkfjkjfkfjkjfkjfkfjkjgkjgkjgkjgkjgkjgk
+jakjskjskjdkjdk
 
 <h2>Skills:</h2>
 <div style="display:flex; padding:5px; margin-left:100px;">
