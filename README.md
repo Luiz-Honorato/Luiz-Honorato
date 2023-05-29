@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!;)](https://git.io/typing-svg)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Honorato&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Honorato)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://camo.githubusercontent.com/cf8c7d549bce00ef2389cd2cc81b272c68b573d84b632b78f47ca947e53b35cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64616e726c65792d64657626686964653d68746d6c2c73637373266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d30306266626626746578745f636f6c6f723d3030626662662662675f636f6c6f723d306431313137)
 <hr>
 
 <h2>Skills:</h2>
