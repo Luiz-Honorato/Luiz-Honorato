@@ -5,10 +5,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Honorato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-<h2>Skills:</h2>
-<div style="display:flex; padding:5px; margin-left:100px;">
-
-</div>
 
 
 
