@@ -1,14 +1,60 @@
-![image](https://user-images.githubusercontent.com/105612296/235490710-d25679ea-29f1-4262-bcb9-617b44c0522e.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!;)](https://git.io/typing-svg)
+<h2 align="left">Oi 👋! Meu nome é Luiz Honorato, tenho 25 anos e sou Desenvolvedor Full Stack, do Brasil 🇧🇷</h2>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Honorato&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Honorato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
-
-
-
+<p align="left">
+  Sou um entusiasta e admirador da tecnologia, apaixonado por aprender e criar soluções através do código.  
+  Estudo sobre desenvolvimento desde 2022 e, desde então, venho aprimorando minhas habilidades para transformar ideias em aplicações reais.  
+  Gosto de unir criatividade e lógica para desenvolver sistemas modernos, performáticos e com foco na experiência do usuário.  
+  Estou sempre em busca de novos conhecimentos, explorando diferentes tecnologias e desafios que me permitam evoluir como profissional e como pessoa.
+</p>
 
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Honorato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiz-Honorato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
+<h2>Stacks: </h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  /> -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /> -->
+</div>
+
+###
+<h2>Redes sociais: </h2>
+<div align="left">
+  <a href="https://www.instagram.com/luizroberto.h/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-roberto-6354b320b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:luizrobertohsilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Luiz-Honorato/output/snake.svg" alt="Snake animation" />
+
+###
