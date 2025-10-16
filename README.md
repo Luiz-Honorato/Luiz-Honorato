@@ -1,4 +1,4 @@
-<h2 align="left">Olá, seja Bem vindo 👋! Eu sou o Luiz, tenho 25 anos atualmente Desenvolvedor Full Stack!</h2>
+<h2 align="left">Olá, seja Bem vindo 👋! Eu sou o Luiz, atualmente Desenvolvedor Full Stack!</h2>
 
 <p align="left">
   Sou um entusiasta e admirador da tecnologia, apaixonado por aprender e criar soluções através do código.  
